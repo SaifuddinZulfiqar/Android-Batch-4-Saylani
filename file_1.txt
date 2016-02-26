@@ -1,1 +1,2 @@
 checking how file push in origin master
+checking synchronization b/w origin and local repository
